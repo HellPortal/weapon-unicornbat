@@ -1,0 +1,5 @@
+['WEAPON_UNICORNBAT'] = {
+	label = 'Unicorn Bat',
+	weight = 1200,
+	durability = 0.1,
+},
